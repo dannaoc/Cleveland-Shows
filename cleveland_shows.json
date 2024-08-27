@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Band A Live",
+        "date": "2024-09-10",
+        "location": "Venue 1, Cleveland"
+    },
+    {
+        "title": "Band B Concert",
+        "date": "2024-09-15",
+        "location": "Venue 2, Cleveland"
+    },
+    {
+        "title": "Band C Unplugged",
+        "date": "2024-09-20",
+        "location": "Venue 3, Cleveland"
+    }
+]
